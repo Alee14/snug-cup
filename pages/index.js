@@ -4,21 +4,27 @@ import Container from '@material-ui/core/Container'
 
 export default function Home() {
   return (
-    <Container>
+    <div>
       <Head>
         <title>Snug Cup Inc.</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+    <Container>
      <div className={styles.centre}>
-       <img src="/Project.png" height="15%" width="15%"/>
-     <h1>Welcome to the Snug Cup Inc. website!</h1>
+        <img src="/Project.png" height="15%" width="15%"/>
+        <h1>Welcome to the Snug Cup Inc. website!</h1>
+        <h2>slogan here</h2>
+        <a href="unity/index.html">Unity Demo</a>
+        <br/>
+        <img src="/snug_cup.png" width="50%" height="50%"/>
      </div>
      <h1>Who are we?</h1>
      <p>We are a company that inovates cups.</p>
+    </Container>
      <footer className={styles.footer}>
        <p>&copy; Copyright 2021, Snug Cup Inc. All rights reserved.</p>
        <p>Made in Next.JS & Hosted on Netlify</p>
      </footer>
-    </Container>
+    </div>
   )
 }
