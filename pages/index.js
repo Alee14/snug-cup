@@ -12,11 +12,12 @@ export default function Home() {
     <Container>
      <div className={styles.centre}>
         <img src="/Project.png" height="15%" width="15%"/>
-        <h1>Welcome to the Snug Cup Inc. website!</h1>
+        <h1>Welcome to Snug Cup!</h1>
         <h2>slogan here</h2>
-        <a href="unity/index.html">Unity Demo</a>
+        <a href="unity/index.html">3D Scale Demo</a>
         <br/>
-        <img src="/snug_cup.png" width="50%" height="50%"/>
+        <h2>Prototype</h2>
+        <img src="/snug_cup.png" width="50%" height="50%" />
      </div>
      <h1>Who are we?</h1>
      <p>We are a company that inovates cups.</p>

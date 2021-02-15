@@ -1289,7 +1289,7 @@ function _emscripten_asm_const_ii(code, a0) {
  return ASM_CONSTS[code](a0);
 }
 STATIC_BASE = GLOBAL_BASE;
-STATICTOP = STATIC_BASE + 2560800;
+STATICTOP = STATIC_BASE + 2559072;
 __ATINIT__.push({
  func: (function() {
   __GLOBAL__sub_I_Transform_cpp();
@@ -1892,6 +1892,10 @@ __ATINIT__.push({
  })
 }, {
  func: (function() {
+  __GLOBAL__sub_I_Il2CppCodeRegistration_cpp();
+ })
+}, {
+ func: (function() {
   __GLOBAL__sub_I_Lump_libil2cpp_gc_cpp();
  })
 }, {
@@ -1901,10 +1905,6 @@ __ATINIT__.push({
 }, {
  func: (function() {
   __GLOBAL__sub_I_Lump_libil2cpp_metadata_cpp();
- })
-}, {
- func: (function() {
-  __GLOBAL__sub_I_Il2CppCodeRegistration_cpp();
  })
 }, {
  func: (function() {
@@ -3167,7 +3167,7 @@ __ATINIT__.push({
   ___cxx_global_var_init_187();
  })
 });
-var STATIC_BUMP = 2560800;
+var STATIC_BUMP = 2559072;
 Module["STATIC_BASE"] = STATIC_BASE;
 Module["STATIC_BUMP"] = STATIC_BUMP;
 var tempDoublePtr = STATICTOP;
@@ -15044,8 +15044,8 @@ function nullFunc_vjji(x) {
  err("Build with ASSERTIONS=2 for more info.");
  abort(x);
 }
-Module["wasmTableSize"] = 48023;
-Module["wasmMaxTableSize"] = 48023;
+Module["wasmTableSize"] = 48021;
+Module["wasmMaxTableSize"] = 48021;
 function invoke_dddi(index, a1, a2, a3) {
  var sp = stackSave();
  try {
