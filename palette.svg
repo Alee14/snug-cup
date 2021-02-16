@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
-   sodipodi:docname="palette.svg">
+   sodipodi:docname="palette.svg"
+   inkscape:export-filename="/home/andrew/palette.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -31,11 +34,11 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="957"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1343"
+     inkscape:window-height="908"
+     inkscape:window-x="258"
+     inkscape:window-y="120"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -52,15 +55,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.244196"
-       id="rect833"
-       width="167.31277"
-       height="27.035656"
-       x="0.051491864"
-       y="0.15331054"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <image
        width="159.38809"
        height="132.02634"
@@ -6594,7 +6588,8 @@ BgAAAABJRU5ErkJggg==
        x="4.6370873"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#0b1734;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect851"
@@ -6603,7 +6598,8 @@ BgAAAABJRU5ErkJggg==
        x="24.734581"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#5e3b55;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect853"
@@ -6612,7 +6608,8 @@ BgAAAABJRU5ErkJggg==
        x="44.832077"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#ffedfa;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect855"
@@ -6621,7 +6618,8 @@ BgAAAABJRU5ErkJggg==
        x="65.101585"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#acacac;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect857"
@@ -6630,7 +6628,8 @@ BgAAAABJRU5ErkJggg==
        x="85.035545"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:1.323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect861"
@@ -6639,7 +6638,8 @@ BgAAAABJRU5ErkJggg==
        x="105.13306"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#fff7b0;fill-opacity:1;stroke:#000000;stroke-width:1.323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect863"
@@ -6648,7 +6648,8 @@ BgAAAABJRU5ErkJggg==
        x="144.94266"
        y="4.9089842"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
     <rect
        style="fill:#fff8cb;fill-opacity:1;stroke:#000000;stroke-width:1.323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect865"
@@ -6657,6 +6658,7 @@ BgAAAABJRU5ErkJggg==
        x="124.88596"
        y="4.9089832"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/andrew/palette.png" />
   </g>
 </svg>
