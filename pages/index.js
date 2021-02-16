@@ -23,6 +23,13 @@ export default function Home() {
      </div>
      <h1>Who are we?</h1>
      <p>We are a company that inovates cups.</p>
+     <h1>Team</h1>
+     <ul>
+       <li>Andrew Lee</li>
+       <li>Angelo Ching</li>
+       <li>Cleopatra Protopapadakis</li>
+       <li>Mehar Ahmad</li>
+     </ul>
     </Container>
      <footer className={styles.footer}>
        <p>&copy; Copyright 2021, Snug Cup Inc. All rights reserved.</p>
