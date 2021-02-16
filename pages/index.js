@@ -16,8 +16,10 @@ export default function Home() {
         <h2>slogan here</h2>
         <a href="unity/index.html">3D Scale Demo</a>
         <br/>
-        <h2>Prototype</h2>
+        <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
+        <h2>Colour palette</h2>
+        <img src="/palette.png" width="40%" height="40%" />
      </div>
      <h1>Who are we?</h1>
      <p>We are a company that inovates cups.</p>
