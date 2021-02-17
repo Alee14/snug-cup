@@ -14,7 +14,6 @@ export default function Home() {
         <img src="/Project.png" height="15%" width="15%"/>
         <h1>Welcome to Snug Cup!</h1>
         <h2>slogan here</h2>
-        <a href="unity/index.html">3D Scale Demo</a>
         <br/>
         <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
