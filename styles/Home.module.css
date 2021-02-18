@@ -10,3 +10,7 @@
     margin-top:20px;
     
 }
+
+.flexbox-center {
+    flex-direction: row;
+}

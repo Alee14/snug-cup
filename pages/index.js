@@ -13,7 +13,6 @@ export default function Home() {
      <div className={styles.centre}>
         <img src="/Project.png" height="15%" width="15%"/>
         <h1>Welcome to Snug Cup!</h1>
-        <h2>slogan here</h2>
         <iframe allowFullScreen webkitallowfullscreen width="640" height="480" frameBorder="0" seamless src="https://p3d.in/e/coEzR+spin+load"></iframe>
         <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
