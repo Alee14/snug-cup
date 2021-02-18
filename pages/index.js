@@ -11,13 +11,15 @@ export default function Home() {
       </Head>
     <Container>
      <div className={styles.centre}>
-        <img src="/Project.png" height="15%" width="15%"/>
+        <img src="/Project.png" height="17%" width="17%"/>
         <br/>
         <iframe allowFullScreen webkitallowfullscreen width="640" height="480" frameBorder="0" seamless src="https://p3d.in/e/coEzR+spin+load"></iframe>
         <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
         <h2>Colour palette</h2>
         <img src="/palette.png" width="40%" height="40%" />
+        <h2>Price</h2>
+        <p>Snug Cup: $25</p>
      </div>
      <h1>Team</h1>
      <ul>
