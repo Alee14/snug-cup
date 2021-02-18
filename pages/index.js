@@ -12,21 +12,19 @@ export default function Home() {
     <Container>
      <div className={styles.centre}>
         <img src="/Project.png" height="15%" width="15%"/>
-        <h1>Welcome to Snug Cup!</h1>
+        <br/>
         <iframe allowFullScreen webkitallowfullscreen width="640" height="480" frameBorder="0" seamless src="https://p3d.in/e/coEzR+spin+load"></iframe>
         <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
         <h2>Colour palette</h2>
         <img src="/palette.png" width="40%" height="40%" />
      </div>
-     <h1>Who are we?</h1>
-     <p>We are a company that inovates cups.</p>
      <h1>Team</h1>
      <ul>
-       <li>Andrew Lee</li>
-       <li>Angelo Ching</li>
-       <li>Cleopatra Protopapadakis</li>
-       <li>Mehar Ahmad</li>
+       <li>Andrew Lee (Web Developer & Model Creator)</li>
+       <li>Angelo Ching (Advertiser)</li>
+       <li>Cleopatra Protopapadakis (Designer)</li>
+       <li>Mehar Ahmad (Marketer)</li>
      </ul>
     </Container>
      <footer className={styles.footer}>
