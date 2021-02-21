@@ -16,7 +16,8 @@ export default function Home() {
         <iframe allowFullScreen webkitallowfullscreen width="640" height="480" frameBorder="0" seamless src="https://p3d.in/e/coEzR+spin+load"></iframe>
         <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
-        <h2>Colour palette</h2>
+        <h2>Cup Demo</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/W7Vau2PgaH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>        <h2>Colour palette</h2>
         <img src="/palette.png" width="40%" height="40%" />
         <h2>Price</h2>
         <p>Snug Cup: $25</p>
