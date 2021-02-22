@@ -24,7 +24,7 @@ export default function Home() {
         <p>Snug Cup: $25</p>
      </div>
      <h1>Description</h1>
-     <p>Snug Cup is a electrical heating cup that heats up beverage. It has a battery that can last for 4 hours..</p>
+     <p>Snug Cup is a electrical heating cup that heats up beverage. It has a battery that can last for 4 hours.</p>
      <h1>Team</h1>
      <ul>
        <li>Andrew Lee (Web Developer & Model Creator)</li>
