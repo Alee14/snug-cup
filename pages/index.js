@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Snug Cup Inc.</title>
+        <title>Snug Cup</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <Container>
@@ -14,6 +14,8 @@ export default function Home() {
         <img src="/Project.png" height="17%" width="17%"/>
         <br/>
         <iframe allowFullScreen webkitallowfullscreen width="640" height="480" frameBorder="0" seamless src="https://p3d.in/e/coEzR+spin+load"></iframe>
+        <h2>Original Concept</h2>
+        <img src="/snug_cup_concept.png" width="50%" height="50%" />
         <h2>Render</h2>
         <img src="/snug_cup.png" width="50%" height="50%" />
         <img src="/snug_cup_diagram.png" width="50%" height="50%" />
@@ -34,7 +36,7 @@ export default function Home() {
      </ul>
     </Container>
      <footer className={styles.footer}>
-       <p>&copy; Copyright 2021, Snug Cup Inc. All rights reserved.</p>
+       <p>&copy; Copyright 2021, Snug Cup. All rights reserved.</p>
        <p>Made in Next.JS & Hosted on Netlify</p>
      </footer>
     </div>
