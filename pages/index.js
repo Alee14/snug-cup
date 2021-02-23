@@ -36,6 +36,7 @@ export default function Home () {
      <footer className={styles.footer}>
        <p>&copy; Copyright 2021, Snug Cup. All rights reserved.</p>
        <p>Made in Next.JS & Hosted on Netlify</p>
+       <p>Models and assets made with Blender & Inkscape (Open Source Software)</p>
      </footer>
     </div>
   )
