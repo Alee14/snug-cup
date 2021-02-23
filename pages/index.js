@@ -2,7 +2,7 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Container from '@material-ui/core/Container'
 
-export default function Home() {
+export default function Home () {
   return (
     <div>
       <Head>
@@ -18,7 +18,7 @@ export default function Home() {
         <img src="/snug_cup.png" width="50%" height="50%" />
         <img src="/snug_cup_diagram.png" width="50%" height="50%" />
         <h2>Cup Demo</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/W7Vau2PgaH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>        <h2>Colour palette</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/W7Vau2PgaH0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>        <h2>Colour palette</h2>
         <img src="/palette.png" width="40%" height="40%" />
         <h2>Price</h2>
         <p>Snug Cup: $25</p>
