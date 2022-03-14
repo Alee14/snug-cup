@@ -25,6 +25,7 @@ export default function Home () {
      </div>
      <h1>Description</h1>
      <p>Snug Cup is a electrical heating cup that heats up beverage. It has a battery that can last for 4 hours.</p>
+<!--
      <h1>Team</h1>
      <ul>
        <li>Andrew Lee (Web Developer & Model Creator)</li>
@@ -32,6 +33,7 @@ export default function Home () {
        <li>Cleopatra Protopapadakis (Designer)</li>
        <li>Mehar Ahmad (Marketer)</li>
      </ul>
+-->
     </Container>
      <footer className={styles.footer}>
        <p>&copy; Copyright 2021, Snug Cup. All rights reserved.</p>
